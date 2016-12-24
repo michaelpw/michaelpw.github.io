@@ -11,5 +11,5 @@ Paymentwall widget can be displayed as an __*[iframe](https://paymentwallapi-mic
 | Parameters
 
 | Name | Description |
-|:---:|:---:|
-|key <br> <b>required</b> <br>string</br>|eg: 048c51f8fc834a1467db96b683f16e70 <br> The project key. <br> Can be found in General Settings of the Project inside of your merchant account.
+| ---- | ----------- |
+|key <br> <b>required</b> <br>string</br>|eg: 048c51f8fc834a1467db96b683f16e70 <br> The project key. <br> Can be found in General Settings of the Project inside of your merchant account.|
