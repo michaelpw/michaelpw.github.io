@@ -16,8 +16,8 @@
 
 title: Serious Mode
 email: michael.nguyen@paymentwall.com
-baseurl: /documentation
-url: https://michaelpw.github.io/documentation
+baseurl: "/documentation"
+url: "https://michaelpw.github.io/documentation"
 twitter_username: jekyllrb
 github_username:  jekyll
 
