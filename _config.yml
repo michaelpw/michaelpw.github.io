@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Serious Mode
-email: michael.nguyen@paymentwall.com
+title: Jekyll Test
+email: tminhkk93@gmail.com
 baseurl: /documentation
 url: https://michaelpw.github.io/
 twitter_username: jekyllrb
